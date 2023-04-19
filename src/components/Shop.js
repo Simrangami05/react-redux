@@ -30,23 +30,6 @@ const Shop = () => {
       >
         +
       </button>
-      {/* <button
-        className="btn btn-secondary mx-2"
-        onClick={() => {
-          dispatch(actionCreators.withdrawMoney(100));
-        }}
-      >
-        -
-      </button>
-      Update Balance
-      <button
-        className="btn btn-secondary mx-2"
-        onClick={() => {
-          dispatch(actionCreators.depositMoney(100));
-        }}
-      >
-        +
-      </button> */}
     </div>
   );
 };
